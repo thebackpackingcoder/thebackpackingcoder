@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thebackpackingcoder, as the name suggests I am a backpacker who codes for a living
-- 👀 I’m interested in new technologies as well as improving my existing skills
-- 🌱 I’m currently learning system design
+- 👋 Hi, I’m @thebackpackingcoder, I code for a living and when I am not coding I am backpacking somepart of India or the world.
+- 👀 Always up for learning something new.
+- 🌱 Currently learning system design and revising my DSA concepts.
 
 <!---
 thebackpackingcoder/thebackpackingcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
